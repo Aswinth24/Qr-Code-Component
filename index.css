@@ -33,20 +33,20 @@ body{
     text-align: center;
     padding: 15px;
 }
-img{
+.img{
     width: 100%;
     border-radius: 8px;
     object-fit: cover;
     object-position: center;
 }
 
-h2{
+.qr-heading{
     color:var(--Dark-blue);
     font-weight: 700;
     font-size: 1.3rem;
     line-height: 1.7rem;
 }
- p{
+.qr-para{
     line-height: 1.5rem;
     font-size: 14px;
     color:var(--Grayish-blue);
